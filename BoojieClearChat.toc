@@ -1,0 +1,7 @@
+## Interface: 120100
+## Title: |cffFFE5EDBoojieClearChat|r
+## Author: SilverRavyn
+## Notes: Clears the selected chat tab and its ElvUI saved history.
+## Version: 1.2.0
+
+BoojieClearChat.lua
