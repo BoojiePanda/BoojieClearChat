@@ -4,7 +4,7 @@ BoojieClearChat is a lightweight World of Warcraft addon that clears the current
 
 ## Installation
 
-1. Download `BoojieClearChat-1.2.1.zip` from the [latest release](https://github.com/BoojiePanda/BoojieClearChat/releases/latest).
+1. Download the packaged addon ZIP from the [latest release](https://github.com/BoojiePanda/BoojieClearChat/releases/latest).
 2. Extract the ZIP into your World of Warcraft `_retail_/Interface/AddOns` directory.
 3. Confirm the resulting folder is named `BoojieClearChat`.
 4. Restart World of Warcraft or enable **BoojieClearChat** from the AddOns menu.
