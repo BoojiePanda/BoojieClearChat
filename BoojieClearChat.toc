@@ -1,7 +1,9 @@
 ## Interface: 120100
-## Title: |cFFFFE5EDBoojieClearChat|r
+## Title: |cFFFF8DA1Boojie Clear Chat|r
 ## Author: SilverRavyn
 ## Notes: Clears the selected chat tab and its ElvUI saved history.
-## Version: 1.2.1
+## Version: 1.2.7
+## Category: Quality of Life
+## IconTexture: Interface\AddOns\BoojieClearChat\BoojieClearChatBCCIcon.png
 
 BoojieClearChat.lua
